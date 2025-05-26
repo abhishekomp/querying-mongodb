@@ -1,0 +1,276 @@
+[
+    {
+      "name": "Anna Schmidt",
+      "isEmployed": true,
+      "skillsPoints": 75,
+      "skills": [
+        "engineering",
+        "management"
+      ],
+      "address": {
+        "city": "Frankfurt",
+        "country": "Germany"
+      },
+      "role": "Pilot",
+      "flyingHours": 1200
+    },
+    {
+      "name": "Elin Svensson",
+      "isEmployed": true,
+      "skillsPoints": 60,
+      "skills": [
+        "crew management",
+        "safety protocols"
+      ],
+      "address": {
+        "city": "Stockholm",
+        "country": "Sweden"
+      },
+      "role": "Cabin Crew"
+    },
+    {
+      "name": "Clara Müller",
+      "isEmployed": true,
+      "skillsPoints": 85,
+      "skills": [
+        "accounting",
+        "finance"
+      ],
+      "address": {
+        "city": "Hamburg",
+        "country": "Germany"
+      },
+      "role": "Finance Officer"
+    },
+    {
+      "name": "David Nilsson",
+      "isEmployed": false,
+      "skillsPoints": 40,
+      "skills": [],
+      "address": {
+        "city": "Gothenburg",
+        "country": "Sweden"
+      },
+      "role": null
+    },
+    {
+      "name": "Bjorn Larsson",
+      "isEmployed": true,
+      "skillsPoints": 95,
+      "skills": [
+        "flight operations",
+        "scheduling"
+      ],
+      "address": {
+        "city": "Malmö",
+        "country": "Sweden"
+      },
+      "role": "Flight Coordinator"
+    },
+    {
+      "name": "Greta Bauer",
+      "isEmployed": false,
+      "skillsPoints": 65,
+      "skills": [
+        "communication",
+        "writing"
+      ],
+      "address": {
+        "city": "Cologne",
+        "country": "Germany"
+      }
+    },
+    {
+      "name": "Emil Johansson",
+      "isEmployed": true,
+      "skillsPoints": 80,
+      "skills": [
+        "software development"
+      ],
+      "address": {
+        "city": "Uppsala",
+        "country": "Sweden"
+      },
+      "role": "IT Specialist"
+    },
+    {
+      "name": "Hans Fischer",
+      "isEmployed": true,
+      "skillsPoints": 70,
+      "skills": [
+        "catering",
+        "hospitality"
+      ],
+      "address": {
+        "city": "Düsseldorf",
+        "country": "Germany"
+      },
+      "role": "Flight Attendant"
+    },
+    {
+      "name": "Inga Huber",
+      "isEmployed": false,
+      "skillsPoints": 55,
+      "skills": [
+        "customer support"
+      ],
+      "address": {
+        "city": "Hannover",
+        "country": "Germany"
+      },
+      "role": "Ground Staff"
+    },
+    {
+      "name": "Klara Schmitt",
+      "isEmployed": false,
+      "skillsPoints": 70,
+      "skills": [
+        "engineering"
+      ],
+      "address": {
+        "city": "Stockholm",
+        "country": "Sweden"
+      },
+      "role": null
+    },
+    {
+      "name": "Lars Maier",
+      "isEmployed": true,
+      "skillsPoints": 85,
+      "skills": [
+        "project management",
+        "planning"
+      ],
+      "address": {
+        "city": "Nuremberg",
+        "country": "Germany"
+      },
+      "role": "Project Manager"
+    },
+    {
+      "name": "Elina Berg",
+      "isEmployed": true,
+      "skillsPoints": 90,
+      "skills": [
+        "navigation",
+        "geography"
+      ],
+      "address": {
+        "city": "Lund",
+        "country": "Sweden"
+      },
+      "role": "Navigator"
+    },
+    {
+      "name": "Niklas Koch",
+      "isEmployed": true,
+      "skillsPoints": 95,
+      "skills": [
+        "research",
+        "development",
+        "innovation"
+      ],
+      "address": {
+        "city": "Dortmund",
+        "country": "Germany"
+      },
+      "role": null
+    },
+    {
+      "name": "Olga Klein",
+      "isEmployed": true,
+      "skillsPoints": 60,
+      "skills": [
+        "event planning"
+      ],
+      "address": {
+        "city": "Bonn",
+        "country": "Germany"
+      },
+      "role": "Event Planner"
+    },
+    {
+      "name": "Karl Hansson",
+      "isEmployed": false,
+      "skillsPoints": 50,
+      "skills": [
+        "maintenance"
+      ],
+      "address": {
+        "city": "Malmö",
+        "country": "Sweden"
+      },
+      "role": null
+    },
+    {
+      "name": "Ralf Schneider",
+      "isEmployed": false,
+      "skillsPoints": 70,
+      "skills": [
+        "supply chain",
+        "inventory management"
+      ],
+      "address": {
+        "city": "Freiburg",
+        "country": "Germany"
+      },
+      "role": "Supply Chain Specialist"
+    },
+    {
+      "name": "Saga Andersson",
+      "isEmployed": true,
+      "skillsPoints": 88,
+      "skills": [
+        "engineering",
+        "automation"
+      ],
+      "address": {
+        "city": "Umeå",
+        "country": "Sweden"
+      },
+      "role": "Engineer"
+    },
+    {
+      "name": "Stefanie Weber",
+      "isEmployed": true,
+      "skillsPoints": 92,
+      "skills": [
+        "strategy",
+        "consulting",
+        "analysis"
+      ],
+      "address": {
+        "city": "Heidelberg",
+        "country": "Germany"
+      },
+      "role": "Strategy Consultant"
+    },
+    {
+      "name": "Thomas Zimmermann",
+      "isEmployed": false,
+      "skillsPoints": 62,
+      "skills": [
+        "finance"
+      ],
+      "address": {
+        "city": "Rostock",
+        "country": "Germany"
+      },
+      "role": null
+    },
+    {
+      "name": "Victor Lund",
+      "isEmployed": true,
+      "skillsPoints": 95,
+      "skills": [
+        "pilot training",
+        "leadership"
+      ],
+      "address": {
+        "city": "Gothenburg",
+        "country": "Sweden"
+      },
+      "role": "Chief Pilot",
+      "flyingHours": 1500
+    }
+  ]
