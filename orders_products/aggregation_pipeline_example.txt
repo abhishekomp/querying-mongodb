@@ -1,0 +1,48 @@
+Used in MongoDB Compass:
+
+[
+  {
+    $lookup:
+      /**
+       * from: The target collection.
+       * localField: The local join field.
+       * foreignField: The target join field.
+       * as: The name for the results.
+       * pipeline: Optional pipeline to run on the foreign collection.
+       * let: Optional variables to use in the pipeline field stages.
+       */
+      {
+        from: "products",
+        localField: "productId",
+        foreignField: "_id",
+        as: "productInfo"
+      }
+  },
+  {
+    $unwind:
+      /**
+       * path: Path to the array field.
+       * includeArrayIndex: Optional name for index.
+       * preserveNullAndEmptyArrays: Optional
+       *   toggle to unwind null and empty values.
+       */
+      {
+        path: "$productInfo",
+        preserveNullAndEmptyArrays: true
+      }
+  },
+  {
+    $project:
+      /**
+       * specifications: The fields to
+       *   include or exclude.
+       */
+      {
+        _id: 1,
+        customerId: 1,
+        productId: 1,
+        orderDate: 1,
+        productInfo: 1
+      }
+  }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "_id": 1,
+        "customerId": "C1",
+        "productId": 101,
+        "orderDate": "2024-06-10"
+    },
+    {
+        "_id": 2,
+        "customerId": "C2",
+        "productId": 104,
+        "orderDate": "2024-06-09"
+    },
+    {
+        "_id": 3,
+        "customerId": "C3",
+        "productId": 102,
+        "orderDate": "2024-06-08"
+    },
+    {
+        "_id": 4,
+        "customerId": "C2",
+        "productId": 105,
+        "orderDate": "2024-06-08"
+    },
+    {
+        "_id": 5,
+        "customerId": "C4",
+        "productId": 106,
+        "orderDate": "2024-06-07"
+    }
+]

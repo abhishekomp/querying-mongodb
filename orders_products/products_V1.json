@@ -1,0 +1,27 @@
+[
+    {
+        "_id": 101,
+        "name": "Pencil",
+        "category": "Stationery"
+    },
+    {
+        "_id": 102,
+        "name": "Eraser",
+        "category": "Stationery"
+    },
+    {
+        "_id": 103,
+        "name": "Stapler",
+        "category": "Office"
+    },
+    {
+        "_id": 104,
+        "name": "Notebook",
+        "category": "Stationery"
+    },
+    {
+        "_id": 105,
+        "name": "Mouse",
+        "category": "Electronics"
+    }
+]
